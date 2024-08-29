@@ -10,7 +10,7 @@ CFLAGS = \
 	 -fno-omit-frame-pointer
 
 CFLAGS_OPT = \
-	     -O2 \
+	     -O3 \
 	     -march=native
 
 LIB = \
